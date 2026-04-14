@@ -7,3 +7,5 @@ pip install kivy
 `
 pip install pyttsx3
 `
+
+<img width="993" height="778" alt="Screenshot 2026-04-14 120206" src="https://github.com/user-attachments/assets/54ae63bc-b356-41aa-ba21-3d42ca2cbe50" />
