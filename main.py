@@ -1,3 +1,6 @@
+"""
+#######[Made By Deadcode]#######
+"""
 from random import choice
 import pyttsx3
 from kivy.app import App
